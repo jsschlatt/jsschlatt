@@ -1,7 +1,7 @@
 <br>
 <div align="center">
  
-${{\color{#FF7941} idk \space this \space is \space for \space my \space jschlatt \space skin}}$ 
+${{\color{#ffca62} idk \space this \space is \space for \space my \space jschlatt \space skin}}$ 
 <br>
 
 <div align="center">
