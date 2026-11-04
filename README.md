@@ -20,7 +20,7 @@ ${{\color{#ffca62} idk \space this \space is \space for \space my \space jschlat
 <tr>
 <h5>
  
-[pt-everypony](https://github.com/pt-everypony)ᅠᅠ[knox-event](https://github.com/knox-event)</h5>
+[pt-everypony](https://github.com/pt-everypony)ᅠᅠ[knox-event](https://github.com/knox-event)ᅠᅠ[NO[LI]MINATIONS](https://github.com/THE-TEMPIST)</h5>
 
 </tr>
 </table>
